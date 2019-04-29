@@ -1,0 +1,25 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micah66/efratbb3.git"
+  },
+  "author": "Micah Gordon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/micah66/efratbb3/issues"
+  },
+  "homepage": "https://github.com/micah66/efratbb3#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.11"
+  }
+}
