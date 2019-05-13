@@ -1,58 +1,86 @@
 [
   {
     "away": {"name":"Pina Chama", "score":4},
-    "home": {"name":"Scorpions", "score":10}
+    "home": {"name":"Scorpions", "score":10},
+    "date": "July 4 2018",
+    "isFinal": true
   },
   {
     "away": {"name":"Papa Spice", "score":7},
-    "home": {"name":"World Ventures", "score":8}
+    "home": {"name":"World Ventures", "score":8},
+    "date": "July 4 2018",
+    "isFinal": true
   },
   {
     "away": {"name":"Scorpions", "score":7},
-    "home": {"name":"World Ventures", "score":9}
+    "home": {"name":"World Ventures", "score":9},
+    "date": "July 4 2018",
+    "isFinal": true
   },
   {
     "away": {"name":"Pina Chama", "score":12},
-    "home": {"name":"Papa Spice", "score":10}
+    "home": {"name":"Papa Spice", "score":10},
+    "date": "July 4 2018",
+    "isFinal": true
   },
   {
     "away": {"name":"World Ventures", "score":9},
-    "home": {"name":"Pina Chama", "score":4}
+    "home": {"name":"Pina Chama", "score":4},
+    "date": "July 4 2018",
+    "isFinal": true
   },
   {
     "away": {"name":"Papa Spice", "score":2},
-    "home": {"name":"Scorpions", "score":18}
+    "home": {"name":"Scorpions", "score":18},
+    "date": "July 4 2018",
+    "isFinal": true
   },
   {
     "away": {"name":"Pina Chama", "score":7},
-    "home": {"name":"Papa Spice", "score":6}
+    "home": {"name":"Papa Spice", "score":6},
+    "date": "July 4 2018",
+    "isFinal": true
   },
   {
     "away": {"name":"World Ventures", "score":8},
-    "home": {"name":"Scorpions", "score":7}
+    "home": {"name":"Scorpions", "score":7},
+    "date": "July 4 2018",
+    "isFinal": true
   },
   {
     "away": {"name":"Scorpions", "score":6},
-    "home": {"name":"Papa Spice", "score":10}
+    "home": {"name":"Papa Spice", "score":10},
+    "date": "July 4 2018",
+    "isFinal": true
   },
   {
     "away": {"name":"Pina Chama", "score":3},
-    "home": {"name":"World Ventures", "score":13}
+    "home": {"name":"World Ventures", "score":13},
+    "date": "July 4 2018",
+    "isFinal": true
   },
   {
     "away": {"name":"World Ventures", "score":9},
-    "home": {"name":"Papa Spice", "score":6}
+    "home": {"name":"Papa Spice", "score":6},
+    "date": "July 4 2018",
+    "isFinal": true
   },
   {
     "away": {"name":"Scorpions", "score":4},
-    "home": {"name":"Pina Chama", "score":3}
+    "home": {"name":"Pina Chama", "score":3},
+    "date": "July 4 2018",
+    "isFinal": true
   },
   {
     "away": {"name":"Scorpions", "score":0},
-    "home": {"name":"World Ventures", "score":3}
+    "home": {"name":"World Ventures", "score":3},
+    "date": "July 4 2018",
+    "isFinal": true
   },
   {
     "away": {"name":"Papa Spice", "score":5},
-    "home": {"name":"Pina Chama", "score":7}
+    "home": {"name":"Pina Chama", "score":7},
+    "date": "July 4 2018",
+    "isFinal": true
   }
 ]
