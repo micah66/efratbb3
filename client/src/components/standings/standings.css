@@ -1,0 +1,11 @@
+td, th {
+  width: 12.5%;
+}
+
+#teamTableHead {
+  width: 30%;
+}
+
+.teamName {
+  text-align: left;
+}

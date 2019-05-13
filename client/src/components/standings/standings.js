@@ -32,6 +32,33 @@ class Standings extends Component {
   render() {
     return (
       <div>
+        <h2>Standings Page</h2>
+        <table style={{width:'80vw', maxWidth: '800px', minWidth: '200px'}}>
+          <tr>
+            <th id={'teamTableHead'}> Team </th>
+            <th> W </th>
+            <th> L </th>
+            <th> T </th>
+            <th> % </th>
+            <th> RS </th>
+            <th> RA </th>
+            <th> RD </th>
+          </tr>
+          <tbody>
+            {this.state.standings.map((team, i) =>
+              <tr key={i}>
+                <td className="teamName">{team.name}</td>
+                <td>{team.w}</td>
+                <td>{team.l}</td>
+                <td>{team.t}</td>
+                <td>{team.wp}</td>
+                <td>{team.rs}</td>
+                <td>{team.ra}</td>
+                <td>{team.rd}</td>
+              </tr>
+            )}
+          </tbody>
+        </table>
       </div>
     );
   }
